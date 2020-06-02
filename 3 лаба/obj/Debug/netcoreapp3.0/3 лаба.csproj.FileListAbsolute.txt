@@ -1,0 +1,11 @@
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.exe
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.deps.json
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.runtimeconfig.json
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.runtimeconfig.dev.json
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.dll
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\bin\Debug\netcoreapp3.0\3 лаба.pdb
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\obj\Debug\netcoreapp3.0\3 лаба.csprojAssemblyReference.cache
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\obj\Debug\netcoreapp3.0\3 лаба.AssemblyInfoInputs.cache
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\obj\Debug\netcoreapp3.0\3 лаба.AssemblyInfo.cs
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\obj\Debug\netcoreapp3.0\3 лаба.dll
+E:\Univer\4_sem\операционные системы\3 лаба\3 лаба\obj\Debug\netcoreapp3.0\3 лаба.pdb
